@@ -1,0 +1,27 @@
+
+}
+body{width: 1024px;
+        margin: 0 auto;
+        font-family: helvetica, Arial, sans-serif;}
+header {height:70px;}
+p {font-size:17px;
+        line-height:1.3em;
+        text-align: center;
+        margin-top: .75em;}        
+h1{font-size:60px;
+        float:left;
+   margin-top: 10px;}
+li {list-style: none;}
+a {text-decoration: none;
+        color:black;
+        font-weight:bold;}
+header ul li {float:right;
+        padding-left: 30px;
+        margin-top:44px;
+        font-size: 20px;}
+footer ul {margin-left: 300px;}
+footer ul li {float:left;
+        padding-left: 30px;
+        margin:10px 0 0 20px;
+        font-size: 20px;}
+#content {margin-bottom: 20px; }
