@@ -50,16 +50,16 @@ table {
 /* END OF RESET - Start of Your CSS*/
 body{width: 1024px;
         margin: 0 auto;
-        font-family: helvetica, Arial, sans-serif;}
+        font-family: helvetica, Arial, sans-serif;
+        background:url('Assets/skydiving.jpg') no-repeat;}
 header {height:70px;}
-p {font-size:17px;
+p {font-size:20px;
         line-height:1.3em;
-        text-align: center;
         margin-top: .75em;}        
-h1{font-size:60px;
-        float:left;
+h1{font-size:70px;
+  font-weight: bold;
    margin-top: 10px;}
-h2{font-size:24px;
+h2{font-size:20px;
    text-align: center;
    margin-top: 20px; 
    font-weight: bold; }
@@ -78,4 +78,5 @@ footer ul li {float:left;
         font-size: 20px;}
 #content {margin-bottom: 20px;
 text-align:center;}
-img {margin-left:30px;}
+img {margin-left:20px;
+   }
